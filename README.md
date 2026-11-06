@@ -1,5 +1,7 @@
 # Jogo do Mario em JavaScript
 
+**[Ver online](https://rafaeldiasfilho.github.io/jogo-mario-js/)**
+
 Mini jogo no estilo "corredor infinito": o Mario precisa pular os canos que vêm em sua direção. Se encostar em um cano, aparece a tela de game over.
 
 Feito com HTML, CSS e JavaScript puro. A animação do cano e das nuvens é feita com CSS `@keyframes`, e a colisão é checada em JavaScript a cada 10 ms.
